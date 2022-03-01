@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent song wherein you shall finde great consolation for a troubled minde. To the tune of Fortune my foe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00727</idno>
+            <idno type="STC">STC 22918.7</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[106]</idno>
+            <idno type="EEBO-CITATION">99884211</idno>
+            <idno type="PROQUEST">ocm99884211</idno>
+            <idno type="VID">182977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182977)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[58])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent song wherein you shall finde great consolation for a troubled minde. To the tune of Fortune my foe.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By the assignes of Thomas Symcocke.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Ayme not too hie in things aboue thy reach ..."</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Consolation --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182977:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>
+               <l>An excellent Song wherein you ſhall finde</l>
+               <l>Great conſolation for a troubled minde.</l>
+            </head>
+            <opener>To the tune of Fortune my Foe.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>AYme not too hie in things aboue thy reach,</l>
+                  <l>Be not too fooliſh in thine owne conceit,</l>
+                  <l>As thou haſt wit and worldly wealth at will,</l>
+                  <l>So giue him thankes that ſhall encreaſe it ſtill.</l>
+               </lg>
+               <lg>
+                  <l>Be ware of pride the mother of miſhap,</l>
+                  <l>Whoſe ſugred ſnares will ſeeke thee to entrap,</l>
+                  <l>Be meeke in heart, and lowly minded ſtill,</l>
+                  <l>So ſhalt thou Gods Commandements fulfill.</l>
+               </lg>
+               <lg>
+                  <l>Caſt all thy care vpon the Lord, and he</l>
+                  <l>In thy diſtreſſe will ſend to ſuccour thee,</l>
+                  <l>Ceaſe not therefore to ſerue him euery day,</l>
+                  <l>Who with his blood thy ranſome once did pay.</l>
+               </lg>
+               <lg>
+                  <l>Dri<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e from thy heart ill thoughts that may offend,</l>
+                  <l>Deſire of God his holy ſpirit to ſend,</l>
+                  <l>Which will direct thy life in ſuch a ſort,</l>
+                  <l>As thou ther<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>by ſhalt find ioy and comfort,</l>
+               </lg>
+               <lg>
+                  <l>Except each day and houre when Chriſt ſhall come</l>
+                  <l>With power to iudge the world both all &amp; ſome:</l>
+                  <l>Be ready then, and with the Bridegroome Chriſt,</l>
+                  <l>Receiue reward in heauen among the higheſt.</l>
+               </lg>
+               <lg>
+                  <l>Feare to offend his heauenly Maieſtie,</l>
+                  <l>Faith doth confirme true loue and loyaltie:</l>
+                  <l>Without which faith, as holie Scriptures ſay,</l>
+                  <l>No man to heauen can find the perfect way.</l>
+               </lg>
+               <lg>
+                  <l>Great is the Lord and mercifull doubtleſſe,</l>
+                  <l>To thoſe that with true zeale their faults confeſſe,</l>
+                  <l>But vnto thoſe in miſchiefe dayly runnes,</l>
+                  <l>He lets alone to caſte what after comes.</l>
+               </lg>
+               <lg>
+                  <l>Hope in the Lord, on him repoſe thy truſt,</l>
+                  <l>Serue him with feare, whoſe iudgements are moſt iuſt</l>
+                  <l>Deſire of him thy life ſo to direct,</l>
+                  <l>That to thy ſoule he may haue good reſpect.</l>
+               </lg>
+               <lg>
+                  <l>Iniure no man, but loue thine enemie,</l>
+                  <l>Though to thy hurt, yet take it patiently,</l>
+                  <l>And thinke the Lord, although he ſuffer long,</l>
+                  <l>When time ſhal ſerue, will ſoon reuenge thy wro<g ref="char:cmbAbbrStroke">̄</g>g</l>
+               </lg>
+               <lg>
+                  <l>Keepe thou no ranckor hidden in thy heart,</l>
+                  <l>Remember well the word Chriſt did impart,</l>
+                  <l>That is, forgiue offences ouer-paſt,</l>
+                  <l>As thou thy ſelfe wilt be forgiuen at laſt.</l>
+               </lg>
+               <lg>
+                  <l>Lay not thy treaſure vp in hoarding ſort,</l>
+                  <l>But there withall the poore feed and comfort,</l>
+                  <l>If thou cold water giue in Chriſt his name,</l>
+                  <l>Thrice double told he will reward the ſame.</l>
+               </lg>
+               <lg>
+                  <l>Miſorder not thy ſelfe in any wiſe,</l>
+                  <l>In meat and drinke let reaſon ſtill ſuffice:</l>
+                  <l>Moderate thy mind, and keepe thy ſelfe content,</l>
+                  <l>So ſhalt thou pleaſe the Lord Omnipotent,</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>NO man can ſay that he is voyd of ſin,</l>
+                  <l>For if he doe he's much deceiu'd therein:</l>
+                  <l>The Lord doth ſay, the iuſt ſeuen times a day</l>
+                  <l>Committeth ſin, and runneth oft aſtray.</l>
+               </lg>
+               <lg>
+                  <l>Obey his will, who to redeeme thy loſſe</l>
+                  <l>Did ſhed his blood for vs vpon the Croſſe,</l>
+                  <l>Such was the loue that Chriſt did ſhew to man,</l>
+                  <l>Why ſhould we be vngratefull to him than?</l>
+               </lg>
+               <lg>
+                  <l>Pittie the poore with ſuch as God hath ſent,</l>
+                  <l>And be not proud with that which he hath lent,</l>
+                  <l>Remember well what Chriſt hath ſaid to thee,</l>
+                  <l>Doe this as though thou didſt it vnto me.</l>
+               </lg>
+               <lg>
+                  <l>Quench fond deſires and pleaſures of the fleſh,</l>
+                  <l>Flie gluttonie, the Mother of exceſſe,</l>
+                  <l>For whoordome is the very ſinke of ſin,</l>
+                  <l>In which the wicked daily wallow in.</l>
+               </lg>
+               <lg>
+                  <l>Root from thy heart malicious thoughts be ſure,</l>
+                  <l>Which are a meanes Gods iudgements to procure</l>
+                  <l>For he aſſur'd when enuie beareth ſway,</l>
+                  <l>The feare of God departeth ſoone away.</l>
+               </lg>
+               <lg>
+                  <l>Subdue thy ſelfe, let wiſedome be thy guide,</l>
+                  <l>Suppreſſe ill thoughts, beware of hatefull pride,</l>
+                  <l>Deſpiſe the world, a vaile of vanities,</l>
+                  <l>Leſt hedlong thou runſt on in miſeries.</l>
+               </lg>
+               <lg>
+                  <l>Turne vnto me, our Sauiour Chriſt doth ſay,</l>
+                  <l>And I will heare they prayers euery day,</l>
+                  <l>If any thing thou aske in Chriſt his name,</l>
+                  <l>Be well aſſur'd thou ſhalt obtaine the ſame.</l>
+               </lg>
+               <lg>
+                  <l>Vaine exerciſe aboliſh from thy ſight,</l>
+                  <l>Deſire of God his faith and holy Spirit,</l>
+                  <l>Who will direct thee in the perfect way,</l>
+                  <l>That leads to life, as holy Scriptures ſay.</l>
+               </lg>
+               <lg>
+                  <l>When Satan ſeekes to tempt thee any way,</l>
+                  <l>Call vpon God thy onely ſtrength and ſtay,</l>
+                  <l>And he aſſur'd from out his holy hill</l>
+                  <l>He will preſerue thy life from danger ſtill.</l>
+               </lg>
+               <lg>
+                  <l>Experience of his loue that lends thee life,</l>
+                  <l>Muſt make thee ſeeke to liue deuoyd of ſtrife,</l>
+                  <l>Let his loue be thy rule, who ſo lou'd thee,</l>
+                  <l>That death he vnderwent to ſet thee free.</l>
+               </lg>
+               <lg>
+                  <l>Yong men and maids, old men and babes repent,</l>
+                  <l>Leſt for your ſins you at the laſt be ſhent:</l>
+                  <l>Be wiſe, that heed, doe not the time delay,</l>
+                  <l>For Chriſt muſt be our Iudge at the laſt day.</l>
+               </lg>
+               <lg>
+                  <l>Zeale like to fire our good works let make bright,</l>
+                  <l>That others thereof may behold the light:</l>
+                  <l>Light vp your Lamps, and with the Virgins fiue</l>
+                  <l>Haue oyle in ſtoore to keepe your Lamps aliue.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London by the Aſſignes of Thomas Symcocke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
